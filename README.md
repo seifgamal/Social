@@ -19,4 +19,9 @@ it supports:
 
 -Notification for messages,friend requests and friends who accepted the friend request
 
+MadeBy:
 
+Me
+Salma Samy
+Omar Mohamed (Omar22 on github)
+Maryam El Sokkary
