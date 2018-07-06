@@ -21,7 +21,10 @@ it supports:
 
 MadeBy:
 
-Me
-Salma Samy
-Omar Mohamed (Omar22 on github)
+Me,
+
+Salma Samy,
+
+Omar Mohamed (Omar22 on github),
+
 Maryam El Sokkary
